@@ -1,0 +1,13 @@
+class Engine 
+{
+	double cc;
+
+	Engine(double cc){
+		this.cc=cc;
+	}
+	public void display1(){
+	System.out.println("Car Engine cc: "+cc);				
+	System.out.println("=========================");				
+
+	}
+}
